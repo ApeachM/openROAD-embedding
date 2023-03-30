@@ -1,0 +1,3 @@
+[submodule "OpenROAD"]
+	path = submodule/OpenROAD
+	url = https://github.com/QuantamHD/OpenROAD.git
